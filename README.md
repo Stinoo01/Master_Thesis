@@ -9,6 +9,10 @@ This repository contains the code for the master thesis 2024/2025 in Data Scienc
 
 ### Python packages
 
+The model was trained and tested with the following packages versions:
+
+'pytjon': 
+
 ## Replicatig the experiment
 
 ## Training from scratch 
