@@ -11,7 +11,7 @@ For the model it was used a `Windows 11`  operating systems.
 
 The model was trained using a computer with 12th Gen Intel(R) Core(TM) i7-12700H @ 2.3 GHz CPU, 16,0 GB of RAM.
 
-To replicate the preprocessing pipeline, please refer to the respective system requirements.
+To replicate any other pipeline, please refer to the respective system requirements.
 
 ### Python packages
 
