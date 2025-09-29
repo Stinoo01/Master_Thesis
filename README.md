@@ -7,14 +7,11 @@ This repository contains the code for the master thesis 2024/2025 in Data Scienc
 
 ### Operating system 
 
-For the model it was used a `Windows` (Ubuntu 18.04) operating systems.
+For the model it was used a `Windows 11`  operating systems.
 
-Chromoformer was trained using a server with 40 Intel(R) Xeon(R) Silver 4210R @ 2.40GHz CPUs, 128GB RAM and two GeForce RTX 3090 GPUs. The training procedure internally utilizes 8 cores (workers) and memory (RAM) footprint was <8GB throughout the training loop. GPU memory usage was ~10GB.
+Chromoformer was trained using a computer with 12th Gen Intel(R) Core(TM) i7-12700H @ 2.3 GHz CPU, 16,0 GB of RAM.
 
-According to the statistics above, we provide the optimal hardware requirements as follows:
-
-CPU requirement: 8+ cores, 2.40+ GHz per core
-GPU requirement: 16+ GB GPU
+To replicate the preprocessing pipeline, please refer to the respective system requirements.
 
 ### Python packages
 
