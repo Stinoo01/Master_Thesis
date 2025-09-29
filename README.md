@@ -3,6 +3,6 @@ This repository contains the code for the master thesis 2024/2025 in Data Scienc
 
 ## System Requirements
 
-## Operating system 
+### Operating system 
 
-## Python packages
+### Python packages
