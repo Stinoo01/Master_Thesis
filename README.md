@@ -8,3 +8,7 @@ This repository contains the code for the master thesis 2024/2025 in Data Scienc
 ### Operating system 
 
 ### Python packages
+
+## Replicatig the experiment
+
+## Training from scratch 
