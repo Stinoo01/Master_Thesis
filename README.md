@@ -20,16 +20,16 @@ GPU requirement: 16+ GB GPU
 
 The model was trained and tested using Python 3.12.3 with the following packages versions:
 
-numpy: 1.26.4
-pandas: 2.2.2
-matplotlib: 3.9.2
-seaborn: 0.13.2
-sklearn: 1.5.1
-xgboost: 3.0.0
-lightgbm: 4.6.0
-torch: 2.7.0+cpu
-statsmodels: 0.14.2
-mygene: 3.2.2
+- `numpy`: 1.26.4  
+- `pandas`: 2.2.2  
+- `matplotlib`: 3.9.2  
+- `seaborn`: 0.13.2  
+- `scikit-learn`: 1.5.1  
+- `xgboost`: 3.0.0  
+- `lightgbm`: 4.6.0  
+- `torch`: 2.7.0+cpu  
+- `statsmodels`: 0.14.2  
+- `mygene`: 3.2.2
 
 ## Replicatig the experiment
 
