@@ -41,10 +41,10 @@ The model was trained and tested using `Python 3.12.3` with the following packag
 
 ## Replicatig the experiment
 
-You cand download alrady pre-processed data at this [link](https://drive.google.com/drive/folders/1O4oE5gS5j4Jx9Y0D_gjBhJ2ppOAOoZy6?usp=sharing) and replicate the experiments using the `demo` file.
+You cand download alrady pre-processed data at this [link](https://drive.google.com/drive/folders/1O4oE5gS5j4Jx9Y0D_gjBhJ2ppOAOoZy6?usp=sharing) and replicate the experiments using the `demo` notebook.
 
 ## Training from scratch 
 
-You can train from scratch the model and apply to new data using the `pipeline` available in this repository. 
+You can train from scratch the model and apply to new data using the `pipeline` notebook available in this repository. 
 
 
