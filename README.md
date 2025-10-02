@@ -30,8 +30,11 @@ The model was trained and tested using `Python 3.12.3` with the following packag
 
 ## Replicatig the experiment
 
+In the folder `data` you will fild code and features to retrain the model and replicate the experiments.
 
 
 ## Training from scratch 
+
+You can train from scratch the model and apply to new data using the `pipeline` available in this repository. 
 
 
