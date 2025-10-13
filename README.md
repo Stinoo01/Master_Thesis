@@ -1,18 +1,8 @@
 # Multilayer graph modeling of gene expression data
 
 Repository for the Master Thesis 2024/2025 (Data Science, Sapienza University of Rome). 
+
 This project contains the code for a multilayer graph-based framework to predict gene expression from histone modification data.
-
-## Model Description
-
-Key components:
-- **Multilayer Graph Representation**: Each gene is represented together with its top co-expressed partners as a multilayer graph; nodes correspond to histone marks, edges encode intra-gene and inter-gene correlations.
-- **Feature Extraction**: Signals around transcription start sites are embedded using a 1D convolutional network.
-- **Models**: Two approaches are implemented:
-  1. **Multilayer XGBoost**: Operates on extracted node features and correlation vectors.
-  2. **Graph Neural Network (GNN)**: Operates directly on the multilayer graph topology using GINEConv layers.
-- **Evaluation**: Supports 4-fold cross-validation with metrics including Accuracy, F1, Precision, Recall, and AUC.
-
 
 ## System Requirements
 
